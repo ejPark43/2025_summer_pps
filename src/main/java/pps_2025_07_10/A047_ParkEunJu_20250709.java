@@ -2,7 +2,7 @@ package pps_2025_07_10;
 
 import java.util.Scanner;
 
-// A046 열개씩 끊어 출력하기:  입력으로 주어진 단어를 열 개씩 끊어서 한 줄에 하나씩 출력한다.
+// A047 열개씩 끊어 출력하기:  입력으로 주어진 단어를 열 개씩 끊어서 한 줄에 하나씩 출력한다.
 
 public class A047_ParkEunJu_20250709 {
     public static void main(String args[]){
